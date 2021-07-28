@@ -1,4 +1,4 @@
-const opencvBuild = require('opencv-build')
+const opencvBuild = require('@localtest/opencv-build')
 const child_process = require('child_process')
 const fs = require('fs')
 const log = require('npmlog')
